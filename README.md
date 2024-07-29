@@ -12,12 +12,12 @@ The objective of this notebook is to explore the relationships between various p
   <br/>
 
 ## Table of Contents
-1. [📖 Introduction](#introduction)
-2. [🔧 Data Preprocessing](#data-preprocessing)
-3. [🔍 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-4. [📊 Visualization](#visualization)
-5. [📈 Correlation Analysis](#correlation-analysis)
-7. [▶️ How to Run](#how-to-run)
+1. [📖 Introduction](#-introduction)
+2. [🔧 Data Preprocessing](#-data-preprocessing)
+3. [🔍 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+4. [📊 Visualization](#-visualization)
+5. [📈 Correlation Analysis](#-correlation-analysis)
+7. [▶️ How to Run](#-how-to-run)
    
 ## 📖 Introduction
 This notebook aims to analyze the relationships between different physical attributes of penguins, such as bill length, bill depth, flipper length, and body mass as well as using the exisiting attributes to create new features applying the concept of Feature engineering 
